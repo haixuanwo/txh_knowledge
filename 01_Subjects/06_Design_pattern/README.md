@@ -3,12 +3,18 @@
  * @Email: haixuanwoTxh@gmail.com
  * @Date: 2024-02-19 10:29:27
  * @LastEditors: Clark
- * @LastEditTime: 2024-02-20 09:55:17
+ * @LastEditTime: 2024-02-26 09:09:58
  * @Description: file content
 -->
 
 
 # 设计模式
+《重构》
+《敏捷软件开发》
+《设计模式解析》
+《设计模式》
+《重构与模式》
+《设计模式分析》
 
 ## 1、《设计模式》 GOF
 
